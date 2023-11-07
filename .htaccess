@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile LauraEmilyQuinn/MyResume/pws/.htpasswd
+AuthUserFile pws/.htpasswd
 require valid-user
